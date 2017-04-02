@@ -7,4 +7,4 @@ Mash Up จากการใช้ TMDB API เพื่อ update รายก
 - Upcoming Movies
 - TV SERIES
 
-#DEMO http://localhost/MoviesandSeries/index.php
+DEMO http://localhost/MoviesandSeries/index.php
